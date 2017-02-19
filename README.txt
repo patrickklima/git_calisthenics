@@ -3,4 +3,5 @@ HELLO WORLD!
 "Who's there?"
 "Patrick"
 "Patrick who??"
-"Patrick wants this joke to be over."
+"Patrick Klima!!"
+"Ahh, nice to meet you, Patrick."
